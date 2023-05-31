@@ -1,4 +1,4 @@
-# Sui Marketplace Scoreboard Project Built with [Indexer.xyz](https://indexer.xyz)
+# Sui NFT Marketplace Scoreboard Project Built with [Indexer.xyz](https://indexer.xyz)
 
 This project displays market data fetched using GraphQL queries from different market names.
 
@@ -34,7 +34,7 @@ The application will start on `localhost:3000` (or the next available port).
 ## Features
 
 - Fetches market data from a GraphQL API for various market names.
-- Displays the fetched data in a table.
+- Displays the fetched NFT Marketplacer Volume data from the Sui network in a table.
 - Provides a filter to view data from the last 24 hours, last 7 days, last 30 days, or all time.
 
 ## Future Enhancements
